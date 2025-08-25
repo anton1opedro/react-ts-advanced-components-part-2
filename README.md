@@ -14,11 +14,6 @@ This project showcases advanced React component patterns and techniques using Ty
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js (v14 or later recommended)
-- npm or yarn
-
 ### Installation
 
 1. Clone the repository:
@@ -36,24 +31,12 @@ This project showcases advanced React component patterns and techniques using Ty
    npm install
    ```
 
-   or
-
-   ```bash
-   yarn install
-   ```
-
 ### Running the App
 
 Start the development server:
 
 ```bash
 npm start
-```
-
-or
-
-```bash
-yarn start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
